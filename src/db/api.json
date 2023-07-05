@@ -1,0 +1,53 @@
+{
+    "system": {
+      "version": "0.0.1"
+    },
+    "db": {
+      "monarchs": [
+        {
+        "username": "ZyRule",
+        "id": "slyrith",
+        "isOwner": "true",
+        "isDeveloper": "true",
+        "isModerator": "true"
+      },{
+        "username": "Beast",
+        "id": "beasty_25",
+        "isGuest": "false",
+        "isOwner": "false",
+        "isDeveloper": "false",
+        "isModerator": "true"
+      },{
+        "username": "LeFish",
+        "id": "fishe",
+        "isGuest": "false",
+        "isOwner": "false",
+        "isDeveloper": "false",
+        "isModerator": "true"
+      },{
+        "username": "Neodevils",
+        "id": "neo",
+        "isGuest": "false",
+        "isOwner": "false",
+        "isDeveloper": "false",
+        "isModerator": "true"
+      }
+    ],
+      "users": [
+        {
+        "username": "Chewy",
+        "id": "Guest",
+        "isGuest": "true"
+      },{
+        "username": "Ванеса",
+        "id": "Guest",
+        "isGuest": "true"
+      },{
+        "username": "wickedharley",
+        "id": "Guest",
+        "isGuest": "true"
+      }
+    ]
+    }
+  }
+  
